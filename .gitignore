@@ -1,0 +1,4 @@
+.idea/
+__pycache__/
+eval_scores.csv
+model_definitions/*
